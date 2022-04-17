@@ -1,13 +1,15 @@
 FROM golang:1.18
 
-WORKDIR /go/src/go-scrap
+WORKDIR /app
 
-COPY . .
+COPY go.mod ./
+COPY go.sum ./
 
 RUN go mod download
 
-RUN go build -o go-scrap
+COPY . .
 
-COPY go-scrap /go-scrap
+RUN go build -o /scrap
 
-CMD [ "go-scrap" ]
+
+CMD [ "scrap" ]
