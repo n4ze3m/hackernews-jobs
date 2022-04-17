@@ -55,6 +55,7 @@ func Push() {
 	githubToken := github.GetInput("gh_token")
 
 	url := fmt.Sprintf("%s@github.com/%s.git", githubToken, repo)
+	fmt.Println(url)
 	// set origin-url
 	exec.Command("git", "remote", "set-url", "origin", url).Run()
 	// set global user.name
@@ -66,7 +67,7 @@ func Push() {
 	// commit
 	exec.Command("git", "commit", "-m", "Update README.md").Run()
 	// push
-	exec.Command("git", "push", "origin", "main").Run()
+	exec.Command("git", "push").Run()
 
 	fmt.Println("Pushed to github")
 }
