@@ -1,24 +1,12 @@
-name: "Scrap jobs from ycombinator"
+name: "Scrap jobs from hackernews"
 
-description: "Scrap jobs from ycombinator"
+description: "Scrap jobs from hackernews"
 
 inputs:
   gh_token:
     description: 'GitHub access token with Repo scope'
     required: false
     default: ${{ github.token }}
-  commit_message:
-    description: "Commit message used while committing to the repo"
-    default: "Updated with the latest blog posts"
-    required: false
-  committer_username:
-    description: "Username used while committing to the repo"
-    default: "n4ze3m"
-    required: false
-  committer_email:
-    description: "Email id used while committing to the repo"
-    default: "blog-post-bot@example.com"
-    required: false
 
 runs:
   using: "docker"

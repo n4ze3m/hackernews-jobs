@@ -2,39 +2,57 @@ package fetch
 
 import (
 	"fmt"
-	"io/ioutil"
-	"net/http"
+	"regexp"
+	"strings"
+
+	"github.com/gocolly/colly/v2"
+	"github.com/n4ze3m/ycombinator-jobs/markdown"
 )
 
 const (
 	TARGET_URL = "https://news.ycombinator.com/jobs"
+	HEADER     = `| id 	| Title 	| Posted On 	|
+|---	|---	|---	|`
 )
 
+type Jobs struct {
+	Title string
+	Link  string
+	Time  string
+}
+
 func Run() {
-	client := &http.Client{}
-	
-	req, err := http.NewRequest("GET", TARGET_URL, nil)
+	c := colly.NewCollector()
+	markDownTable := []string{}
+	jobs := []Jobs{}
 
-	if err != nil {
-		fmt.Println(err)
-		return
+	c.OnHTML(".itemlist", func(e *colly.HTMLElement) {
+		e.ForEach(".athing", func(_ int, el *colly.HTMLElement) {
+			title := el.ChildText(".title")
+			link := el.ChildAttr(".title a", "href")
+			time := strings.TrimSpace(el.DOM.Next().Text())
+
+			if !regexp.MustCompile(`^(http|https)://`).MatchString(link) {
+				link = "https://news.ycombinator.com/" + link
+			}
+
+			jobs = append(jobs, Jobs{
+				Title: title,
+				Link:  link,
+				Time:  time,
+			})
+		})
+	})
+
+	c.Visit(TARGET_URL)
+
+	markDownTable = append(markDownTable, HEADER)
+
+	for i, job := range jobs {
+		markDownTable = append(markDownTable, fmt.Sprintf("| %d | [%s](%s) | %s |", i+1, job.Title, job.Link, job.Time))
 	}
 
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36")
-	resp, err := client.Do(req)
 
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
-
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-
-	fmt.Println(string(body))
+	markdown.Readme(strings.Join(markDownTable, "\n"))
+	markdown.Push()
 }
