@@ -1,6 +1,6 @@
 # Hackernews Jobs
 
-List of jobs from [Hacker News](https://news.ycombinator.com/). This github repository is automatically updated every hour.
+List of jobs from [Hacker News](https://news.ycombinator.com/). This github repository is automatically updated every 2 hour 🏃.
 
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
@@ -38,7 +38,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:END -->
 
 
-## Notes
+## Notes 👀
 
 1. This is a personal project and is not affiliated with [Hacker News](https://news.ycombinator.com/). 
 

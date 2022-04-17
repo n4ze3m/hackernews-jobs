@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"regexp"
 	"strings"
+	"time"
 
 	"github.com/gocolly/colly/v2"
 	"github.com/n4ze3m/ycombinator-jobs/markdown"
@@ -30,7 +31,17 @@ func Run() {
 		e.ForEach(".athing", func(_ int, el *colly.HTMLElement) {
 			title := el.ChildText(".title")
 			link := el.ChildAttr(".title a", "href")
-			time := strings.TrimSpace(el.DOM.Next().Text())
+			dateTime, isExist := el.DOM.Next().Find(".age").Attr("title")
+			t := ""
+			if !isExist {
+				t = strings.TrimSpace(el.DOM.Next().Text())
+			} else {
+				tm, err:= time.Parse("2006-01-02T15:04:05", dateTime)
+				if err != nil {
+					fmt.Println(err)
+				}
+				t = tm.Format("1/2/2006 03:04 PM")
+			}
 
 			if !regexp.MustCompile(`^(http|https)://`).MatchString(link) {
 				link = "https://news.ycombinator.com/" + link
@@ -39,7 +50,7 @@ func Run() {
 			jobs = append(jobs, Jobs{
 				Title: title,
 				Link:  link,
-				Time:  time,
+				Time:  t,
 			})
 		})
 	})

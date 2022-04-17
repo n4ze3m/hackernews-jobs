@@ -5,8 +5,6 @@ import (
 	"os"
 	"os/exec"
 	"strings"
-
-	// "github.com/n4ze3m/ycombinator-jobs/github"
 )
 
 const (
@@ -51,13 +49,6 @@ func Readme(table string) {
 
 
 func Push() {
-	// repo := os.Getenv("GITHUB_REPOSITORY")
-	// githubToken := github.GetInput("gh_token")
-
-	// url := fmt.Sprintf("%s@github.com/%s.git", githubToken, repo)
-	// fmt.Println(url)
-	// // set origin-url
-	// exec.Command("git", "remote", "set-url", "origin", url).Run()
 	// set global user.name
 	exec.Command("git", "config", "--global", "user.name", "n4ze3m").Run()
 	// set global user.email
