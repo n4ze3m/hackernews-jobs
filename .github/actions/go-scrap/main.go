@@ -17,5 +17,4 @@ func main() {
 	fmt.Println(getInput("committer_username"))
 	fmt.Println(getInput("committer_email"))
 	fmt.Println(getInput("commit_message"))
-	fmt.Println(getInput("gh_token"))
 }
