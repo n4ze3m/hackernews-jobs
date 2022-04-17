@@ -8,4 +8,6 @@ RUN go mod download
 
 RUN go build -o go-scrap
 
+COPY go-scrap /go-scrap
+
 CMD [ "go-scrap" ]
