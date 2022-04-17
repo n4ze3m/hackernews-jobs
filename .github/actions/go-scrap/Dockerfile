@@ -11,4 +11,4 @@ COPY . .
 RUN go build -o /scrap
 
 
-CMD [ "scrap" ]
+CMD [ "/scrap" ]
