@@ -1,6 +1,11 @@
-FROM golang:1.15
-WORKDIR /go/src/scrap
+FROM golang:1.18
+
+WORKDIR /go/src/go-scrap
+
 COPY . .
-RUN go get -d -v ./...
-RUN go install -v ./...
-CMD ["scrap"]
+
+RUN go mod download
+
+RUN go build -o go-scrap
+
+CMD [ "go-scrap" ]
