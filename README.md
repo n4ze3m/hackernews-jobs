@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer (lever.co)](https://jobs.lever.co/buildzoom) | 4/17/2022 09:01 PM |
+| 1 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 4/17/2022 09:01 PM |
 | 2 | [ReadMe (YC W15) is hiring people who love Developer Experience (readme.com)](https://readme.com/careers) | 4/17/2022 05:00 PM |
 | 3 | [Aesthetic (YC S18) Is Hiring a Full-Stack Web Engineer (ashbyhq.com)](https://jobs.ashbyhq.com/aesthetic/335f5c64-c991-4a18-a696-b9c457217106) | 4/17/2022 12:01 PM |
 | 4 | [Ribbon (YC S17) is hiring a Director of Engineering to help simplify healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/open-roles/?gh_jid=4153956004) | 4/16/2022 05:00 PM |
@@ -42,4 +42,4 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 
 1. This is a personal project and is not affiliated with [Hacker News](https://news.ycombinator.com/). 
 
-2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actions
+2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actions
