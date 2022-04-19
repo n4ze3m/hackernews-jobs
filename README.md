@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Massdriver (YC W22) Is Hiring a Principal Elixir Engineer (ycombinator.com)](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer) | 4/19/2022 05:00 PM |
+| 1 | [Massdriver (YC W22) is hiring a principal Elixir engineer (ycombinator.com)](https://www.ycombinator.com/companies/massdriver/jobs/6Jpy56U-principal-elixir-engineer) | 4/19/2022 05:00 PM |
 | 2 | [PolicyFly (YC W22) Is Hiring a Senior Back End Engineer (Remote) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer) | 4/19/2022 12:01 PM |
 | 3 | [UserGems (YC S14) Is Hiring a VP of Engineering (Europe / East Coast) (usergems.com)](https://www.usergems.com/careers/vp-of-engineering) | 4/19/2022 07:00 AM |
 | 4 | [Motion (YC W20) Is Hiring Full Stack Engineers (ashbyhq.com)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05) | 4/18/2022 09:01 PM |
