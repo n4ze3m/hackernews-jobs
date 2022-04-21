@@ -32,7 +32,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 | 25 | [Sturdy (YC W21) Is Hiring Senior Engineers (Stockholm, Sweden) (getsturdy.com)](https://getsturdy.com/careers) | 4/14/2022 07:00 AM |
 | 26 | [Regology (YC S18) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager) | 4/14/2022 01:00 AM |
 | 27 | [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31020206) | 4/13/2022 09:01 PM |
-| 28 | [8vdX (YC W22) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=31017120) | 4/13/2022 05:01 PM |
+| 28 | [8vdX (YC W22) Is Hiring a Product Manager (ycombinator.com)](https://www.ycombinator.com/companies/8vdx/jobs/lHYJ86N-product-manager) | 4/13/2022 05:01 PM |
 | 29 | [Cumbuca (YC S21) Is Hiring](https://news.ycombinator.com/item?id=31013621) | 4/13/2022 12:00 PM |
 | 30 | [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote) (svix.com)](https://www.svix.com/careers/) | 4/13/2022 07:00 AM |
 <!-- JOBS:END -->
