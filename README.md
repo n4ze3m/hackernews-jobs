@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Runops is fixing security tech from the 80s and hiring dev advocate (ycombinator.com)](https://www.ycombinator.com/companies/runops/jobs/4S6TgVQ-data-privacy-devops-advocate) | 4/26/2022 05:00 PM |
+| 1 | [Runops (YC W21) is hiring a dev advocate to help fix security tech (ycombinator.com)](https://www.ycombinator.com/companies/runops/jobs/4S6TgVQ-data-privacy-devops-advocate) | 4/26/2022 05:00 PM |
 | 2 | [Firezone (YC W22) Is Hiring Engineers to Build an Open-Source Security Platform (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 4/26/2022 12:00 PM |
 | 3 | [Manara (YC W21) Is Hiring a senior front end engineer (breezy.hr)](https://manara.breezy.hr/p/1cebbb12d138) | 4/26/2022 01:00 AM |
 | 4 | [HireArt (YC W12) Is Hiring a Product Designer (hireart.com)](https://www.hireart.com/jobs/0e40a78f/apply?utm_source=hackernews) | 4/25/2022 09:01 PM |
@@ -42,4 +42,4 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 
 1. This is a personal project and is not affiliated with [Hacker News](https://news.ycombinator.com/). 
 
-2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actions
+2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actionss
