@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Neon Is Hiring – Technical Writer](https://news.ycombinator.com/item?id=31191470) | 4/28/2022 12:00 PM |
+| 1 | [Dashworks (YC W20) Is Hiring a Senior Product Engineer (ycombinator.com)](https://www.ycombinator.com/companies/dashworks/jobs/BlnGlki-senior-product-engineer) | 4/28/2022 02:39 PM |
 | 2 | [Clipboard Health (YC W17) Is Hiring an Engineering Manager, QA (clipboardhealth.com)](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad) | 4/28/2022 07:01 AM |
 | 3 | [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695) | 4/28/2022 01:00 AM |
 | 4 | [EasyPost (YC S13) Is Hiring Remote (easypost.com)](https://www.easypost.com/careers) | 4/27/2022 09:00 PM |
