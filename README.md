@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote) (svix.com)](https://www.svix.com/careers/) | 4/28/2022 09:00 PM |
+| 1 | [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote) (svix.com)](https://www.svix.com/careers/) | 4/28/2022 09:00 PM |
 | 2 | [PropelAuth (YC W22) is hiring Rust developers (ycombinator.com)](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-senior-backend-engineer) | 4/28/2022 05:00 PM |
 | 3 | [Dashworks (YC W20) Is Hiring a Senior Product Engineer (ycombinator.com)](https://www.ycombinator.com/companies/dashworks/jobs/BlnGlki-senior-product-engineer) | 4/28/2022 02:39 PM |
 | 4 | [Clipboard Health (YC W17) Is Hiring an Engineering Manager, QA (clipboardhealth.com)](https://culture.clipboardhealth.com/engineering/engineering-manager-quality?utm_campaign=emqa&utm_medium=hackernews&utm_source=jobad) | 4/28/2022 07:01 AM |
@@ -42,4 +42,4 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 
 1. This is a personal project and is not affiliated with [Hacker News](https://news.ycombinator.com/). 
 
-2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonsss Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonssssonsssb Actions Actions Actions Actionsns Actionssonssionsns Actionssonssionssonss
+2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonsss Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonssssonsssb Actions Actions Actions Actionsns Actionssonssionsns Actionssonssionssonssctionssonssionssonss
