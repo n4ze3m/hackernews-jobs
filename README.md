@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement (onesignal.com)](https://onesignal.com/careers) | 4/30/2022 12:01 PM |
+| 1 | [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement (onesignal.com)](https://onesignal.com/careers) | 4/30/2022 12:01 PM |
 | 2 | [SafeButler (YC S17) is hiring a digital marketing associate (safebutler.com)](https://www.safebutler.com/careers) | 4/29/2022 09:00 PM |
 | 3 | [Release (YC W20) Is Hiring – Senior FullStack (Back End Focused) Engineer (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s) | 4/29/2022 05:00 PM |
 | 4 | [MutableAI (YC W22) Is Hiring a Founding Engineer (ycombinator.com)](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer) | 4/29/2022 12:00 PM |
@@ -42,4 +42,4 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 
 1. This is a personal project and is not affiliated with [Hacker News](https://news.ycombinator.com/). 
 
-2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonsss Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonssssonsssb Actions Actions Actions Actionsns Actionssonssionsns Actionssonssionssonssctionssonssionssonssonssionsns Actionssonssionssonssctionssonssionssonssnssctionssonssionssonssonssionsns Actionssonssionssonssctionssonssionssonss
+2. This repository mainly for playing around with [Markdown](https://en.wikipedia.org/wiki/Markdown) and Github Actions Actionsand Github Actions Actionsb Actions Actionsd Github Actions Actionsb Actions Actionsb Actions Actions Actionsions Actionsb Actions Actions Actionss Actionsb Actions Actions Actionsss Actionsb Actions Actions Actions Actionsctions Actionsss Actionsb Actions Actions Actions Actionsonsss Actionsb Actions Actions Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonsss Actions Actionsns Actionssonsssb Actions Actions Actions Actionsns Actionssonssssonsssb Actions Actions Actions Actionsns Actionssonssionsns Actionssonssionssonssctionssonssionssonssonssionsns Actionssonssionssonssctionssonssionssonssnssctionssonssionssonssonssionsns Actionssonssionssonssctionssonssionssonssonss
