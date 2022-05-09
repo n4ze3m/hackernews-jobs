@@ -7,7 +7,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 |---	|---	|---	|
 | 1 | [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook (deepnote.com)](https://deepnote.com/join-us) | 5/9/2022 07:01 AM |
 | 2 | [Courier (YC S19) is hiring software engineers to fix bad product notifications (lever.co)](https://jobs.lever.co/trycourier) | 5/8/2022 05:01 PM |
-| 3 | [Kable (YC W22) Is Hiring Founding Engineers (Remote) (ycombinator.com)](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer) | 5/8/2022 12:00 PM |
+| 3 | [Kable (YC W22) is hiring Founding Engineers to solve Billing for API companies (ycombinator.com)](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer) | 5/8/2022 12:00 PM |
 | 4 | [AtoB (YC S20) is hiring to build Stripe for Transportation (atob.com)](https://careers.atob.com) | 5/7/2022 09:01 PM |
 | 5 | [The Muse (YC W12) Is Hiring a Senior Platform Engineer (themuse.com)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c) | 5/7/2022 05:02 PM |
 | 6 | [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers (devcycle.com)](https://devcycle.com/company/careers) | 5/7/2022 12:01 PM |
