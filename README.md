@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 5/19/2022 09:00 PM |
+| 1 | [Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing engine (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 5/19/2022 09:00 PM |
 | 2 | [Arc (YC W22) is hiring a designer (greenhouse.io)](https://boards.greenhouse.io/arctechnologies/jobs/4080956004) | 5/19/2022 05:00 PM |
 | 3 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 5/19/2022 12:00 PM |
 | 4 | [Rescale (YC W12) Is Hiring Software Engineers (lever.co)](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News) | 5/18/2022 09:00 PM |
