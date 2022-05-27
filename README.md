@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Ribbon (YC S17) is hiring Data Engineers who want to help simplify healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004) | 5/27/2022 05:00 PM |
+| 1 | [Ribbon (YC S17) is hiring data engineers who want to help simplify healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004) | 5/27/2022 05:00 PM |
 | 2 | [The Svix Webhook Service (YC W21) Is Hiring (svix.com)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs) | 5/27/2022 12:01 PM |
 | 3 | [Release (YC W20) is hiring mid level full stack engineers (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js) | 5/26/2022 09:00 PM |
 | 4 | [EasyPost (YC S13) Is Hiring Remote Engineers (easypost.com)](https://www.easypost.com/careers) | 5/26/2022 05:00 PM |
