@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [BuildZoom (better way to build custom homes) Is hiring a Growth Associate (lever.co)](https://jobs.lever.co/buildzoom) | 5/29/2022 09:03 PM |
+| 1 | [BuildZoom (better way to build custom homes) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 5/29/2022 09:03 PM |
 | 2 | [QuestDB (YC S20) is hiring Python and cloud engineers (questdb.io)](https://questdb.io/careers) | 5/28/2022 05:00 PM |
 | 3 | [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement (onesignal.com)](https://onesignal.com/careers) | 5/28/2022 12:02 PM |
 | 4 | [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook (deepnote.com)](https://deepnote.com/join-us) | 5/28/2022 07:01 AM |
