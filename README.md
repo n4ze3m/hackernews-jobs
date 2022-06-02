@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Padlet Is Hiring in Singapore to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 6/2/2022 01:00 AM |
+| 1 | [Padlet (YC W13) is hiring in Singapore to build software for a good education (padlet.jobs)](https://padlet.jobs) | 6/2/2022 01:00 AM |
 | 2 | [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107) | 6/1/2022 05:23 PM |
 | 3 | [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris (lever.co)](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator) | 6/1/2022 07:00 AM |
 | 4 | [Jitx (YC S18) is hiring a senior optimization scientist (lever.co)](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7) | 5/30/2022 09:00 PM |
