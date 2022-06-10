@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Flexport Is Hiring Engineers in Chicago (flexport.com)](https://flexport.com) | 6/10/2022 05:01 PM |
+| 1 | [Flexport (YC W14) is hiring engineers in Chicago (flexport.com)](https://flexport.com) | 6/10/2022 05:01 PM |
 | 2 | [The Svix Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 6/10/2022 12:01 PM |
 | 3 | [MedCrypt (YC W19) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k) | 6/9/2022 06:26 PM |
 | 4 | [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449) | 6/9/2022 01:02 AM |
