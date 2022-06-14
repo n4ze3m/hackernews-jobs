@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Creator economy startup, Laylo, is hiring a lead growth engineer (notion.so)](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee) | 6/14/2022 02:24 PM |
+| 1 | [Laylo (YC S20), creator economy startup, is hiring a lead growth engineer (laylo.notion.site)](https://laylo.notion.site/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee) | 6/14/2022 02:24 PM |
 | 2 | [EasyPost (YC S13) Is Hiring Remote (easypost.com)](https://www.easypost.com/careers) | 6/13/2022 05:00 PM |
 | 3 | [AssemblyAI (YC S17) Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950) | 6/13/2022 01:03 PM |
 | 4 | [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer (lever.co)](https://jobs.lever.co/buildzoom) | 6/12/2022 09:03 PM |
