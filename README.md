@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Journey is hiring thoughtful engineers (journey.io)](https://jny.journey.io/p/hacker-news-job-eng) | 6/15/2022 05:00 PM |
+| 1 | [Journey (YC W21) is hiring thoughtful engineers (journey.io)](https://jny.journey.io/p/hacker-news-job-eng) | 6/15/2022 05:00 PM |
 | 2 | [Porter (YC S20) Is Hiring Founding Engineers in NYC (ycombinator.com)](https://www.ycombinator.com/companies/porter/jobs) | 6/15/2022 12:00 PM |
 | 3 | [Kodable (YC IK12) is hiring a full-stack engineer to help us teach kids to code (indeed.com)](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B) | 6/14/2022 09:00 PM |
 | 4 | [Laylo (YC S20), creator economy startup, is hiring a lead growth engineer (laylo.notion.site)](https://laylo.notion.site/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee) | 6/14/2022 02:24 PM |
