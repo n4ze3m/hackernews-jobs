@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Smarking (YC W15) Is Hiring ML Eng to scale dynamic pricing for $655B parking (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 6/17/2022 05:01 PM |
+| 1 | [Smarking (YC W15) is hiring ML engineers to scale dynamic pricing for parking (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 6/17/2022 05:01 PM |
 | 2 | [Keeper Tax (YC W19) Is Hiring a freelance designer (design systems) (ycombinator.com)](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract) | 6/16/2022 05:01 PM |
 | 3 | [Padlet (YC W13) is hiring in SF to build software for a good education (padlet.jobs)](https://padlet.jobs) | 6/16/2022 07:00 AM |
 | 4 | [PicnicHealth (YC S14) is hiring Product Engineers to transform healthcare data (picnichealth.com)](https://picnichealth.com/career-details?gh_jid=6202435002) | 6/16/2022 01:00 AM |
