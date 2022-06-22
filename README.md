@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought (dendron.so)](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI) | 6/22/2022 06:36 PM |
+| 1 | [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought (dendron.so)](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI) | 6/22/2022 06:36 PM |
 | 2 | [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform (lever.co)](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5) | 6/22/2022 02:19 PM |
 | 3 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 6/22/2022 12:00 PM |
 | 4 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 6/21/2022 09:31 PM |
