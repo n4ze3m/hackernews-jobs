@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737) | 6/27/2022 09:01 PM |
+| 1 | [Finley (YC W21) is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737) | 6/27/2022 09:01 PM |
 | 2 | [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract) (ycombinator.com)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract) | 6/27/2022 02:54 PM |
 | 3 | [BuildZoom (YC W13) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 6/26/2022 09:04 PM |
 | 4 | [OneSignal (YC S11) is hiring back end and full stack engineers (onesignal.com)](https://onesignal.com/careers) | 6/25/2022 05:00 PM |
