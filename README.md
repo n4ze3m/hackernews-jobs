@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [PermitFlow (YC W22) Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211) | 6/28/2022 05:00 PM |
+| 1 | [PermitFlow (YC W22) is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211) | 6/28/2022 05:00 PM |
 | 2 | [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering) | 6/28/2022 12:01 PM |
 | 3 | [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline (algolia.com)](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england) | 6/28/2022 07:00 AM |
 | 4 | [Landeed (YC S22) is hiring Rust and React Native engineers in India (ycombinator.com)](https://www.ycombinator.com/companies/landeed/jobs) | 6/28/2022 01:01 AM |
