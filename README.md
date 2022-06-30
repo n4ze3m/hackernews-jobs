@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs (ycombinator.com)](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer) | 6/30/2022 05:00 PM |
+| 1 | [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs (ycombinator.com)](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer) | 6/30/2022 05:00 PM |
 | 2 | [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 6/30/2022 07:00 AM |
 | 3 | [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies (reverielabs.com)](https://www.reverielabs.com/careers) | 6/29/2022 09:01 PM |
 | 4 | [GiveCampus (YC S15) is hiring a senior site reliability engineer (lever.co)](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d) | 6/29/2022 05:01 PM |
