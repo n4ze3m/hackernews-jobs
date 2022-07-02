@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Mozart Data (YC S20) is hiring a senior front end engineer (mozartdata.com)](https://www.mozartdata.com/senior-software-engineer-frontend) | 7/1/2022 09:00 PM |
-| 2 | [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 7/1/2022 05:02 PM |
-| 3 | [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead (welcomekit.co)](https://upchieve.welcomekit.co/) | 7/1/2022 12:00 PM |
-| 4 | [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs (ycombinator.com)](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer) | 6/30/2022 05:00 PM |
-| 5 | [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 6/30/2022 07:00 AM |
-| 6 | [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies (reverielabs.com)](https://www.reverielabs.com/careers) | 6/29/2022 09:01 PM |
-| 7 | [GiveCampus (YC S15) is hiring a senior site reliability engineer (lever.co)](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d) | 6/29/2022 05:01 PM |
-| 8 | [Sieve (YC W22) is building the MongoDB for video, come join us (sievedata.com)](https://www.sievedata.com/) | 6/29/2022 12:00 PM |
-| 9 | [Supabase (YC S20) Is Hiring Elixir Engineers (Remote) (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4544288004) | 6/29/2022 07:00 AM |
-| 10 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 6/28/2022 09:00 PM |
-| 11 | [PermitFlow (YC W22) is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211) | 6/28/2022 05:00 PM |
-| 12 | [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering) | 6/28/2022 12:01 PM |
-| 13 | [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline (algolia.com)](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england) | 6/28/2022 07:00 AM |
-| 14 | [Landeed (YC S22) is hiring Rust and React Native engineers in India (ycombinator.com)](https://www.ycombinator.com/companies/landeed/jobs) | 6/28/2022 01:01 AM |
-| 15 | [Finley (YC W21) is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737) | 6/27/2022 09:01 PM |
-| 16 | [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract) (ycombinator.com)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract) | 6/27/2022 02:54 PM |
-| 17 | [BuildZoom (YC W13) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 6/26/2022 09:04 PM |
-| 18 | [OneSignal (YC S11) is hiring back end and full stack engineers (onesignal.com)](https://onesignal.com/careers) | 6/25/2022 05:00 PM |
-| 19 | [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future (gohire.io)](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/) | 6/25/2022 12:00 PM |
-| 20 | [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook (deepnote.com)](https://deepnote.com/join-us) | 6/25/2022 07:02 AM |
-| 21 | [Flexport (YC W14) is hiring software engineers (flexport.com)](https://flexport.com/careers) | 6/24/2022 05:01 PM |
-| 22 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 6/24/2022 12:02 PM |
-| 23 | [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer (ycombinator.com)](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer) | 6/23/2022 12:01 PM |
-| 24 | [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932) | 6/23/2022 01:03 AM |
-| 25 | [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought (dendron.so)](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI) | 6/22/2022 06:36 PM |
-| 26 | [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform (lever.co)](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5) | 6/22/2022 02:19 PM |
-| 27 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 6/22/2022 12:00 PM |
-| 28 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 6/21/2022 09:31 PM |
-| 29 | [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309) | 6/21/2022 05:00 PM |
-| 30 | [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 6/21/2022 12:00 PM |
+| 1 | [Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL) (ycombinator.com)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer) | 7/2/2022 12:01 PM |
+| 2 | [Mozart Data (YC S20) is hiring a senior front end engineer (mozartdata.com)](https://www.mozartdata.com/senior-software-engineer-frontend) | 7/1/2022 09:00 PM |
+| 3 | [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry (lever.co)](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76) | 7/1/2022 05:02 PM |
+| 4 | [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead (welcomekit.co)](https://upchieve.welcomekit.co/) | 7/1/2022 12:00 PM |
+| 5 | [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs (ycombinator.com)](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer) | 6/30/2022 05:00 PM |
+| 6 | [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 6/30/2022 07:00 AM |
+| 7 | [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies (reverielabs.com)](https://www.reverielabs.com/careers) | 6/29/2022 09:01 PM |
+| 8 | [GiveCampus (YC S15) is hiring a senior site reliability engineer (lever.co)](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d) | 6/29/2022 05:01 PM |
+| 9 | [Sieve (YC W22) is building the MongoDB for video, come join us (sievedata.com)](https://www.sievedata.com/) | 6/29/2022 12:00 PM |
+| 10 | [Supabase (YC S20) Is Hiring Elixir Engineers (Remote) (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4544288004) | 6/29/2022 07:00 AM |
+| 11 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 6/28/2022 09:00 PM |
+| 12 | [PermitFlow (YC W22) is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211) | 6/28/2022 05:00 PM |
+| 13 | [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering) | 6/28/2022 12:01 PM |
+| 14 | [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline (algolia.com)](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england) | 6/28/2022 07:00 AM |
+| 15 | [Landeed (YC S22) is hiring Rust and React Native engineers in India (ycombinator.com)](https://www.ycombinator.com/companies/landeed/jobs) | 6/28/2022 01:01 AM |
+| 16 | [Finley (YC W21) is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737) | 6/27/2022 09:01 PM |
+| 17 | [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract) (ycombinator.com)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract) | 6/27/2022 02:54 PM |
+| 18 | [BuildZoom (YC W13) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 6/26/2022 09:04 PM |
+| 19 | [OneSignal (YC S11) is hiring back end and full stack engineers (onesignal.com)](https://onesignal.com/careers) | 6/25/2022 05:00 PM |
+| 20 | [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future (gohire.io)](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/) | 6/25/2022 12:00 PM |
+| 21 | [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook (deepnote.com)](https://deepnote.com/join-us) | 6/25/2022 07:02 AM |
+| 22 | [Flexport (YC W14) is hiring software engineers (flexport.com)](https://flexport.com/careers) | 6/24/2022 05:01 PM |
+| 23 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 6/24/2022 12:02 PM |
+| 24 | [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer (ycombinator.com)](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer) | 6/23/2022 12:01 PM |
+| 25 | [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932) | 6/23/2022 01:03 AM |
+| 26 | [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought (dendron.so)](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI) | 6/22/2022 06:36 PM |
+| 27 | [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform (lever.co)](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5) | 6/22/2022 02:19 PM |
+| 28 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 6/22/2022 12:00 PM |
+| 29 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 6/21/2022 09:31 PM |
+| 30 | [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309) | 6/21/2022 05:00 PM |
 <!-- JOBS:END -->
 
 
