@@ -9,7 +9,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 | 2 | [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers (ycombinator.com)](https://www.ycombinator.com/companies/genei/jobs) | 7/6/2022 07:01 AM |
 | 3 | [Compound (YC S19) is hiring to build financial products for startup employees (withcompound.com)](https://withcompound.com/) | 7/5/2022 09:00 PM |
 | 4 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31990762) | 7/5/2022 05:01 PM |
-| 5 | [Kable (YC W22), Billing for API Companies, Is Hiring (kable.io)](https://kable.io) | 7/4/2022 12:02 PM |
+| 5 | [Kable (YC W22) is hiring a Founding Engineer (Remote, US) (kable.io)](https://kable.io) | 7/4/2022 12:02 PM |
 | 6 | [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools (ycombinator.com)](https://www.ycombinator.com/companies/patterns) | 7/3/2022 05:00 PM |
 | 7 | [The Muse (YC W12) Is Growing Our Platform Engineering Team (themuse.com)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c) | 7/3/2022 12:00 PM |
 | 8 | [Stacker (YC S20) is hiring product engineers (workable.com)](https://apply.workable.com/stackerhq/j/32E1D43CF5/) | 7/3/2022 07:01 AM |
