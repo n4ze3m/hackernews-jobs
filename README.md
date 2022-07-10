@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Ivy (YC W23) Is Hiring a Research Engineer to Help Unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 7/9/2022 09:01 PM |
+| 1 | [Ivy (YC W23) is hiring a research engineer to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 7/9/2022 09:01 PM |
 | 2 | [OneSignal (YC S11) Is Hiring Product Engineers (onesignal.com)](https://onesignal.com/careers) | 7/9/2022 05:01 PM |
 | 3 | [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook (deepnote.com)](https://deepnote.com/join-us) | 7/9/2022 07:03 AM |
 | 4 | [Flexport Is Still Hiring (flexport.com)](https://flexport.com/careers) | 7/8/2022 05:55 PM |
