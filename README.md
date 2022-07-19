@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development (devcycle.com)](https://devcycle.com/company/careers) | 7/19/2022 05:01 PM |
+| 1 | [DevCycle (YC W14) is hiring feature flag developers to fix software development (devcycle.com)](https://devcycle.com/company/careers) | 7/19/2022 05:01 PM |
 | 2 | [Cotera (YC W22) Is Hiring Engineers (ycombinator.com)](https://www.ycombinator.com/companies/cotera/jobs) | 7/19/2022 12:00 PM |
 | 3 | [Verdn (YC W22) is hiring founding full stack engineers in London, UK (ycombinator.com)](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer) | 7/19/2022 07:00 AM |
 | 4 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 7/18/2022 09:00 PM |
