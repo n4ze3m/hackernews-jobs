@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543) | 7/21/2022 01:03 AM |
-| 2 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 7/20/2022 05:00 PM |
-| 3 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481) | 7/20/2022 12:00 PM |
-| 4 | [DevCycle (YC W14) is hiring feature flag developers to fix software development (devcycle.com)](https://devcycle.com/company/careers) | 7/19/2022 05:01 PM |
-| 5 | [Cotera (YC W22) Is Hiring Engineers (ycombinator.com)](https://www.ycombinator.com/companies/cotera/jobs) | 7/19/2022 12:00 PM |
-| 6 | [Verdn (YC W22) is hiring founding full stack engineers in London, UK (ycombinator.com)](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer) | 7/19/2022 07:00 AM |
-| 7 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 7/18/2022 09:00 PM |
-| 8 | [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction (ycombinator.com)](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer) | 7/18/2022 05:00 PM |
-| 9 | [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US) (kable.io)](https://kable.io) | 7/18/2022 12:03 PM |
-| 10 | [Patterns (YC S21) is hiring to build an app store for data warehouses (patterns.app)](https://www.patterns.app/) | 7/17/2022 05:01 PM |
-| 11 | [Stacker (YC S20) Is Hiring a Senior Data Analyst (workable.com)](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/) | 7/17/2022 07:02 AM |
-| 12 | [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations) (skio.com)](https://skio.com/careers/) | 7/16/2022 09:00 PM |
-| 13 | [Mozart Data (YC S20) Is Hiring a Data Analyst (mozartdata.com)](https://www.mozartdata.com/data-analyst) | 7/16/2022 12:01 PM |
-| 14 | [Smarking (YC W15) Is Hiring a Staff ML Engineer (lever.co)](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60) | 7/15/2022 09:00 PM |
-| 15 | [Firezone (YC W22) is building an open-source network security platform (workatastartup.com)](https://www.workatastartup.com/companies/firezone) | 7/15/2022 05:01 PM |
-| 16 | [Padlet Is Hiring in SF to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 7/15/2022 12:00 PM |
-| 17 | [Terra (YC W21) Is Hiring a Full Stack Engineer in London (ycombinator.com)](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer) | 7/15/2022 07:00 AM |
-| 18 | [Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342) | 7/15/2022 01:00 AM |
-| 19 | [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer (ycombinator.com)](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer) | 7/14/2022 09:00 PM |
-| 20 | [Evidence (YC S21) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer) | 7/14/2022 05:00 PM |
-| 21 | [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer (lever.co)](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d) | 7/14/2022 12:00 PM |
-| 22 | [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions) (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4568813004) | 7/14/2022 07:01 AM |
-| 23 | [QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, AWS, Argocd) (questdb.io)](https://questdb.io/careers/senior-cloud-engineer/) | 7/13/2022 09:01 PM |
-| 24 | [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475) | 7/13/2022 05:00 PM |
-| 25 | [Sieve (YC W22) is building AI infra for video data, come join us (sievedata.com)](https://www.sievedata.com/) | 7/13/2022 12:01 PM |
-| 26 | [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture (ashbyhq.com)](https://www.ashbyhq.com/careers) | 7/13/2022 07:00 AM |
-| 27 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 7/12/2022 09:01 PM |
-| 28 | [Pachyderm (YC W15) is hiring for DevRel to evangelize data-centric pipelines (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 7/12/2022 05:00 PM |
-| 29 | [MedMe Health (YC W21) is hiring a senior engineer (ycombinator.com)](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer) | 7/11/2022 10:47 PM |
-| 30 | [BuildZoom (YC W13) is hiring a product manager (lever.co)](https://jobs.lever.co/buildzoom) | 7/10/2022 09:05 PM |
+| 1 | [HireArt (YC W12) is hiring a senior front-end engineer (hireart.com)](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews) | 7/21/2022 12:00 PM |
+| 2 | [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543) | 7/21/2022 01:03 AM |
+| 3 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 7/20/2022 05:00 PM |
+| 4 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481) | 7/20/2022 12:00 PM |
+| 5 | [DevCycle (YC W14) is hiring feature flag developers to fix software development (devcycle.com)](https://devcycle.com/company/careers) | 7/19/2022 05:01 PM |
+| 6 | [Cotera (YC W22) Is Hiring Engineers (ycombinator.com)](https://www.ycombinator.com/companies/cotera/jobs) | 7/19/2022 12:00 PM |
+| 7 | [Verdn (YC W22) is hiring founding full stack engineers in London, UK (ycombinator.com)](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer) | 7/19/2022 07:00 AM |
+| 8 | [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra (ashbyhq.com)](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572) | 7/18/2022 09:00 PM |
+| 9 | [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction (ycombinator.com)](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer) | 7/18/2022 05:00 PM |
+| 10 | [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US) (kable.io)](https://kable.io) | 7/18/2022 12:03 PM |
+| 11 | [Patterns (YC S21) is hiring to build an app store for data warehouses (patterns.app)](https://www.patterns.app/) | 7/17/2022 05:01 PM |
+| 12 | [Stacker (YC S20) Is Hiring a Senior Data Analyst (workable.com)](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/) | 7/17/2022 07:02 AM |
+| 13 | [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations) (skio.com)](https://skio.com/careers/) | 7/16/2022 09:00 PM |
+| 14 | [Mozart Data (YC S20) Is Hiring a Data Analyst (mozartdata.com)](https://www.mozartdata.com/data-analyst) | 7/16/2022 12:01 PM |
+| 15 | [Smarking (YC W15) Is Hiring a Staff ML Engineer (lever.co)](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60) | 7/15/2022 09:00 PM |
+| 16 | [Firezone (YC W22) is building an open-source network security platform (workatastartup.com)](https://www.workatastartup.com/companies/firezone) | 7/15/2022 05:01 PM |
+| 17 | [Padlet Is Hiring in SF to Build Software for a Good Education (padlet.jobs)](https://padlet.jobs) | 7/15/2022 12:00 PM |
+| 18 | [Terra (YC W21) Is Hiring a Full Stack Engineer in London (ycombinator.com)](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer) | 7/15/2022 07:00 AM |
+| 19 | [Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342) | 7/15/2022 01:00 AM |
+| 20 | [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer (ycombinator.com)](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer) | 7/14/2022 09:00 PM |
+| 21 | [Evidence (YC S21) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer) | 7/14/2022 05:00 PM |
+| 22 | [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer (lever.co)](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d) | 7/14/2022 12:00 PM |
+| 23 | [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions) (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4568813004) | 7/14/2022 07:01 AM |
+| 24 | [QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, AWS, Argocd) (questdb.io)](https://questdb.io/careers/senior-cloud-engineer/) | 7/13/2022 09:01 PM |
+| 25 | [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475) | 7/13/2022 05:00 PM |
+| 26 | [Sieve (YC W22) is building AI infra for video data, come join us (sievedata.com)](https://www.sievedata.com/) | 7/13/2022 12:01 PM |
+| 27 | [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture (ashbyhq.com)](https://www.ashbyhq.com/careers) | 7/13/2022 07:00 AM |
+| 28 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 7/12/2022 09:01 PM |
+| 29 | [Pachyderm (YC W15) is hiring for DevRel to evangelize data-centric pipelines (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 7/12/2022 05:00 PM |
+| 30 | [MedMe Health (YC W21) is hiring a senior engineer (ycombinator.com)](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer) | 7/11/2022 10:47 PM |
 <!-- JOBS:END -->
 
 
