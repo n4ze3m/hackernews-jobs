@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Charge Robotics (YC S21) is hiring a mechanical engineer (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 7/22/2022 05:01 PM |
+| 1 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 7/22/2022 05:01 PM |
 | 2 | [Charityvest (YC S20) Is Hiring Lead UX and Brand Designer (workable.com)](https://apply.workable.com/charityvest/j/37123CA4DC/) | 7/22/2022 12:00 PM |
 | 3 | [PropelAuth (YC W22) Is Hiring Rust Developers (US Remote) (ycombinator.com)](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer) | 7/21/2022 09:00 PM |
 | 4 | [ReadMe (YC W15) is hiring people who love Developer Experience (readme.com)](https://readme.com/careers) | 7/21/2022 05:00 PM |
