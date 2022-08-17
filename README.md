@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Eden (Performance Management Software) Is Hiring – Product Manager](https://news.ycombinator.com/item?id=32485639) | 8/16/2022 05:00 PM |
+| 1 | [Eden (YC S15) is hiring a product manager – Performance management software](https://news.ycombinator.com/item?id=32485639) | 8/16/2022 05:00 PM |
 | 2 | [GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 8/16/2022 12:01 PM |
 | 3 | [Pachyderm (YC W15) is hiring Go distributed systems and testing engineers (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 8/15/2022 05:41 PM |
 | 4 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 8/15/2022 08:37 AM |
