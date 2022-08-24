@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Sieve (YC W22) Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206) | 8/24/2022 12:00 PM |
-| 2 | [GoGoGrandparent (YC S16) is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785) | 8/24/2022 07:00 AM |
-| 3 | [Release (YC W20) Is Hiring a Senior Product Manager (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager) | 8/23/2022 09:01 PM |
-| 4 | [UPchieve (EdTech Nonprofit, YC W21) is hiring senior engineers (welcomekit.co)](https://upchieve.welcomekit.co/) | 8/23/2022 05:00 PM |
-| 5 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 8/23/2022 02:27 PM |
-| 6 | [Replit (YC W18) Is Hiring ML engineers (replit.com)](https://replit.com/careers) | 8/22/2022 09:00 PM |
-| 7 | [Keeper Tax (YC W19) is hiring an engineer to simplify taxes for gig workers (ycombinator.com)](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-software-engineer-platform) | 8/22/2022 05:02 PM |
-| 8 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 8/21/2022 09:08 PM |
-| 9 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 8/21/2022 05:00 PM |
-| 10 | [Ivy (YC W23) is hiring developers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 8/21/2022 01:01 AM |
-| 11 | [OneSignal (YC S11) is hiring back end and full stack engineers (onesignal.com)](https://onesignal.com/careers) | 8/20/2022 09:01 PM |
-| 12 | [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 8/20/2022 12:00 PM |
-| 13 | [Flexport is hiring software engineers (flexport.com)](https://flexport.com/careers) | 8/20/2022 07:01 AM |
-| 14 | [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service (svix.com)](https://www.svix.com/careers/) | 8/20/2022 01:01 AM |
-| 15 | [DevCycle (YC W14) Is Hiring - Feature Flags and Remote Config Automation (devcycle.com)](https://devcycle.com/company/careers) | 8/19/2022 05:02 PM |
-| 16 | [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris (lever.co)](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News) | 8/19/2022 07:01 AM |
-| 17 | [TaxProper (YC S19) Is Hiring (taxproper.notion.site)](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624) | 8/18/2022 09:00 PM |
-| 18 | [Mozart Data (YC S20) is Hiring a Data Analyst to productize common data problems (mozartdata.com)](https://www.mozartdata.com/data-analyst) | 8/18/2022 05:00 PM |
-| 19 | [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240) | 8/18/2022 07:01 AM |
-| 20 | [Opvia (YC S20) Is Hiring a Chief of Staff in London, UK (opvia.io)](https://www.opvia.io/careers) | 8/17/2022 07:00 AM |
-| 21 | [Eden (YC S15) is hiring a product manager – Performance management software](https://news.ycombinator.com/item?id=32485639) | 8/16/2022 05:00 PM |
-| 22 | [GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 8/16/2022 12:01 PM |
-| 23 | [Pachyderm (YC W15) is hiring Go distributed systems and testing engineers (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 8/15/2022 05:41 PM |
-| 24 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 8/15/2022 08:37 AM |
-| 25 | [Patterns (YC S21) is hiring devs to help build the Figma for data (patterns.app)](https://www.patterns.app/) | 8/14/2022 09:01 PM |
-| 26 | [Stacker (YC S20) Is Hiring a Product Engineer (workable.com)](https://apply.workable.com/stackerhq/j/32E1D43CF5/) | 8/14/2022 07:04 AM |
-| 27 | [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations (skio.com)](https://skio.com/careers/) | 8/13/2022 09:01 PM |
-| 28 | [Firezone (YC W22) hiring engineers to build a modern corporate VPN (remote, US) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 8/13/2022 05:01 PM |
-| 29 | [Taktile (YC S20) Is Hiring Front End Engineer (ycombinator.com)](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d) | 8/13/2022 07:00 AM |
-| 30 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 8/11/2022 05:01 PM |
+| 1 | [Jitx (YC S18) is hiring a front end engineer (lever.co)](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e) | 8/24/2022 05:00 PM |
+| 2 | [Sieve (YC W22) Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206) | 8/24/2022 12:00 PM |
+| 3 | [GoGoGrandparent (YC S16) is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785) | 8/24/2022 07:00 AM |
+| 4 | [Release (YC W20) Is Hiring a Senior Product Manager (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager) | 8/23/2022 09:01 PM |
+| 5 | [UPchieve (EdTech Nonprofit, YC W21) is hiring senior engineers (welcomekit.co)](https://upchieve.welcomekit.co/) | 8/23/2022 05:00 PM |
+| 6 | [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku (aptible.com)](https://www.aptible.com/careers/) | 8/23/2022 02:27 PM |
+| 7 | [Replit (YC W18) Is Hiring ML engineers (replit.com)](https://replit.com/careers) | 8/22/2022 09:00 PM |
+| 8 | [Keeper Tax (YC W19) is hiring an engineer to simplify taxes for gig workers (ycombinator.com)](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-software-engineer-platform) | 8/22/2022 05:02 PM |
+| 9 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 8/21/2022 09:08 PM |
+| 10 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 8/21/2022 05:00 PM |
+| 11 | [Ivy (YC W23) is hiring developers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 8/21/2022 01:01 AM |
+| 12 | [OneSignal (YC S11) is hiring back end and full stack engineers (onesignal.com)](https://onesignal.com/careers) | 8/20/2022 09:01 PM |
+| 13 | [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 8/20/2022 12:00 PM |
+| 14 | [Flexport is hiring software engineers (flexport.com)](https://flexport.com/careers) | 8/20/2022 07:01 AM |
+| 15 | [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service (svix.com)](https://www.svix.com/careers/) | 8/20/2022 01:01 AM |
+| 16 | [DevCycle (YC W14) Is Hiring - Feature Flags and Remote Config Automation (devcycle.com)](https://devcycle.com/company/careers) | 8/19/2022 05:02 PM |
+| 17 | [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris (lever.co)](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News) | 8/19/2022 07:01 AM |
+| 18 | [TaxProper (YC S19) Is Hiring (taxproper.notion.site)](https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624) | 8/18/2022 09:00 PM |
+| 19 | [Mozart Data (YC S20) is Hiring a Data Analyst to productize common data problems (mozartdata.com)](https://www.mozartdata.com/data-analyst) | 8/18/2022 05:00 PM |
+| 20 | [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240) | 8/18/2022 07:01 AM |
+| 21 | [Opvia (YC S20) Is Hiring a Chief of Staff in London, UK (opvia.io)](https://www.opvia.io/careers) | 8/17/2022 07:00 AM |
+| 22 | [Eden (YC S15) is hiring a product manager – Performance management software](https://news.ycombinator.com/item?id=32485639) | 8/16/2022 05:00 PM |
+| 23 | [GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 8/16/2022 12:01 PM |
+| 24 | [Pachyderm (YC W15) is hiring Go distributed systems and testing engineers (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 8/15/2022 05:41 PM |
+| 25 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 8/15/2022 08:37 AM |
+| 26 | [Patterns (YC S21) is hiring devs to help build the Figma for data (patterns.app)](https://www.patterns.app/) | 8/14/2022 09:01 PM |
+| 27 | [Stacker (YC S20) Is Hiring a Product Engineer (workable.com)](https://apply.workable.com/stackerhq/j/32E1D43CF5/) | 8/14/2022 07:04 AM |
+| 28 | [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations (skio.com)](https://skio.com/careers/) | 8/13/2022 09:01 PM |
+| 29 | [Firezone (YC W22) hiring engineers to build a modern corporate VPN (remote, US) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 8/13/2022 05:01 PM |
+| 30 | [Taktile (YC S20) Is Hiring Front End Engineer (ycombinator.com)](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d) | 8/13/2022 07:00 AM |
 <!-- JOBS:END -->
 
 
