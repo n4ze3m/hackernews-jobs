@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Smarking (YC W15) Is Hiring a Product Lead to digitize the parking industry (lever.co)](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55) | 8/24/2022 09:01 PM |
+| 1 | [Smarking (YC W15) is hiring a product lead to digitize the parking industry (lever.co)](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55) | 8/24/2022 09:01 PM |
 | 2 | [Jitx (YC S18) is hiring a front end engineer (lever.co)](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e) | 8/24/2022 05:00 PM |
 | 3 | [Sieve (YC W22) Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206) | 8/24/2022 12:00 PM |
 | 4 | [GoGoGrandparent (YC S16) is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785) | 8/24/2022 07:00 AM |
