@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [DevCycle (YC W14) – Feature Flags and Remote Config Automation – Is Hiring (devcycle.com)](https://devcycle.com/company/careers) | 9/2/2022 05:02 PM |
+| 1 | [Devcycle (YC W14) – feature flags and remote config automation – is hiring (devcycle.com)](https://devcycle.com/company/careers) | 9/2/2022 05:02 PM |
 | 2 | [Ribbon Health (YC S17) is hiring engineers to help patients find care (ribbonhealth.com)](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/) | 9/2/2022 12:00 PM |
 | 3 | [TaxProper (YC S19) Is Hiring (taxproper.notion.site)](https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d) | 9/1/2022 09:01 PM |
 | 4 | [Substack (YC W18) is hiring Android engineers (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006027005) | 9/1/2022 05:01 PM |
