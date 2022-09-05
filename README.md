@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32723316) | 9/5/2022 12:01 PM |
+| 1 | [Meticulous (YC S21) is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316) | 9/5/2022 12:01 PM |
 | 2 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 9/4/2022 09:08 PM |
 | 3 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 9/4/2022 05:01 PM |
 | 4 | [Ivy (YC W23) is hiring software engineers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 9/4/2022 01:02 AM |
