@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Etleap (YC W13) Is Hiring Software Engineer – London (etleap.com)](https://etleap.com/careers/software-engineer/) | 9/7/2022 01:00 AM |
+| 1 | [Etleap (YC W13) is hiring a software engineer in London (etleap.com)](https://etleap.com/careers/software-engineer/) | 9/7/2022 01:00 AM |
 | 2 | [GiveCampus (YC S15) hiring senior engineers who care about affordable education (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 9/6/2022 09:08 PM |
 | 3 | [Jiga (YC W21) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us) | 9/6/2022 05:00 PM |
 | 4 | [Meticulous (YC S21) is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316) | 9/5/2022 12:01 PM |
