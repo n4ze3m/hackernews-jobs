@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Motion (YC W20) Is Hiring QA and Back End Engineers (usemotion.com)](https://www.usemotion.com/jobs) | 9/8/2022 05:00 PM |
+| 1 | [Motion (YC W20) is hiring QA and back end engineers (usemotion.com)](https://www.usemotion.com/jobs) | 9/8/2022 05:00 PM |
 | 2 | [QuestDB (YC S20) Is Hiring a Technical Writer (questdb.io)](https://questdb.io/careers/technical-content-writer/) | 9/8/2022 12:00 PM |
 | 3 | [SigNoz (YC W21) Is Hiring Frontend engineers to build open source APM (ycombinator.com)](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer) | 9/8/2022 07:00 AM |
 | 4 | [Laylo (YC S20) Is Hiring a Full Stack Engineer to Grow “Salesforce” for Creators](https://news.ycombinator.com/item?id=32753205) | 9/7/2022 05:01 PM |
