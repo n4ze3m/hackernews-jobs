@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [TaxProper (YC S19) Is Hiring Engineers and Operations](https://news.ycombinator.com/item?id=32858405) | 9/15/2022 09:01 PM |
-| 2 | [Substack (YC W18) is hiring data analysts to build the future for writing (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005) | 9/15/2022 05:01 PM |
-| 3 | [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118) | 9/15/2022 07:02 AM |
-| 4 | [Patterns (YC S21) Is hiring devs to help us build the Figma for data (patterns.app)](https://patterns.app/) | 9/14/2022 05:00 PM |
-| 5 | [Pachyderm Is Hiring Sales Engineers and Solutions Architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 9/14/2022 12:00 PM |
-| 6 | [Tab (YC W15) Is Hiring a Full Stack Developer in London (recruitee.com)](https://tab.recruitee.com/o/full-stack-developer-3) | 9/14/2022 07:01 AM |
-| 7 | [Finley (YC W21) is hiring across all teams to build fintech infrastructure (finleycms.com)](https://www.finleycms.com/careers/) | 9/14/2022 04:53 AM |
-| 8 | [Contentedge (YC W17) is hiring to build AI content writing software for SEO (contentedge.com)](https://www.contentedge.com/?pg=jobs) | 9/13/2022 09:00 PM |
-| 9 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 9/13/2022 05:00 PM |
-| 10 | [AiSupervision (YC W22) is hiring a back-end software engineer (Remote) (aisupervision.com)](https://www.aisupervision.com/careers/back-end-software-engineer) | 9/13/2022 01:39 PM |
-| 11 | [Release (YC W20) Is Hiring Business Development Reps (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/4UBvS1Y-sales-development-representative) | 9/12/2022 09:01 PM |
-| 12 | [ReadMe (YC W15) is hiring a product manager who loves APIs (readme.com)](https://readme.com/careers#product-lead) | 9/12/2022 05:01 PM |
-| 13 | [Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers (stackerhq.com)](https://www.stackerhq.com/careers#job-listing) | 9/11/2022 07:05 AM |
-| 14 | [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring (skio.com)](https://skio.com/careers/) | 9/10/2022 09:03 PM |
-| 15 | [Firezone is hiring to build a WireGuard based remote access platform (YC W22) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 9/10/2022 05:03 PM |
-| 16 | [Ashby hiring engineers who want to make product decisions and/or design (ashbyhq.com)](https://www.ashbyhq.com/careers?utm_source=hn) | 9/10/2022 07:01 AM |
-| 17 | [Olark (YC W09) Is Hiring an Account Executive who cares about accessibility (trakstar.com)](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn) | 9/9/2022 09:00 PM |
-| 18 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 9/9/2022 07:00 AM |
-| 19 | [Motion (YC W20) is hiring QA and back end engineers (usemotion.com)](https://www.usemotion.com/jobs) | 9/8/2022 05:00 PM |
-| 20 | [QuestDB (YC S20) Is Hiring a Technical Writer (questdb.io)](https://questdb.io/careers/technical-content-writer/) | 9/8/2022 12:00 PM |
-| 21 | [SigNoz (YC W21) Is Hiring Frontend engineers to build open source APM (ycombinator.com)](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer) | 9/8/2022 07:00 AM |
-| 22 | [Laylo (YC S20) Is Hiring a Full Stack Engineer to Grow “Salesforce” for Creators](https://news.ycombinator.com/item?id=32753205) | 9/7/2022 05:01 PM |
-| 23 | [Etleap (YC W13) is hiring a software engineer in London (etleap.com)](https://etleap.com/careers/software-engineer/) | 9/7/2022 01:00 AM |
-| 24 | [GiveCampus (YC S15) hiring senior engineers who care about affordable education (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 9/6/2022 09:08 PM |
-| 25 | [Jiga (YC W21) is hiring a manufacturing success manager (ycombinator.com)](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us) | 9/6/2022 05:00 PM |
-| 26 | [Meticulous (YC S21) is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316) | 9/5/2022 12:01 PM |
-| 27 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 9/4/2022 09:08 PM |
-| 28 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 9/4/2022 05:01 PM |
-| 29 | [Ivy (YC W23) is hiring software engineers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 9/4/2022 01:02 AM |
-| 30 | [OneSignal (YC S11) is hiring engineers (onesignal.com)](https://onesignal.com/careers) | 9/3/2022 09:02 PM |
+| 1 | [Diversion (YC S22) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/diversion/jobs) | 9/16/2022 07:00 AM |
+| 2 | [TaxProper (YC S19) Is Hiring Engineers and Operations](https://news.ycombinator.com/item?id=32858405) | 9/15/2022 09:01 PM |
+| 3 | [Substack (YC W18) is hiring data analysts to build the future for writing (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005) | 9/15/2022 05:01 PM |
+| 4 | [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118) | 9/15/2022 07:02 AM |
+| 5 | [Patterns (YC S21) Is hiring devs to help us build the Figma for data (patterns.app)](https://patterns.app/) | 9/14/2022 05:00 PM |
+| 6 | [Pachyderm Is Hiring Sales Engineers and Solutions Architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 9/14/2022 12:00 PM |
+| 7 | [Tab (YC W15) Is Hiring a Full Stack Developer in London (recruitee.com)](https://tab.recruitee.com/o/full-stack-developer-3) | 9/14/2022 07:01 AM |
+| 8 | [Finley (YC W21) is hiring across all teams to build fintech infrastructure (finleycms.com)](https://www.finleycms.com/careers/) | 9/14/2022 04:53 AM |
+| 9 | [Contentedge (YC W17) is hiring to build AI content writing software for SEO (contentedge.com)](https://www.contentedge.com/?pg=jobs) | 9/13/2022 09:00 PM |
+| 10 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 9/13/2022 05:00 PM |
+| 11 | [AiSupervision (YC W22) is hiring a back-end software engineer (Remote) (aisupervision.com)](https://www.aisupervision.com/careers/back-end-software-engineer) | 9/13/2022 01:39 PM |
+| 12 | [Release (YC W20) Is Hiring Business Development Reps (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/4UBvS1Y-sales-development-representative) | 9/12/2022 09:01 PM |
+| 13 | [ReadMe (YC W15) is hiring a product manager who loves APIs (readme.com)](https://readme.com/careers#product-lead) | 9/12/2022 05:01 PM |
+| 14 | [Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers (stackerhq.com)](https://www.stackerhq.com/careers#job-listing) | 9/11/2022 07:05 AM |
+| 15 | [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring (skio.com)](https://skio.com/careers/) | 9/10/2022 09:03 PM |
+| 16 | [Firezone is hiring to build a WireGuard based remote access platform (YC W22) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 9/10/2022 05:03 PM |
+| 17 | [Ashby hiring engineers who want to make product decisions and/or design (ashbyhq.com)](https://www.ashbyhq.com/careers?utm_source=hn) | 9/10/2022 07:01 AM |
+| 18 | [Olark (YC W09) Is Hiring an Account Executive who cares about accessibility (trakstar.com)](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn) | 9/9/2022 09:00 PM |
+| 19 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 9/9/2022 07:00 AM |
+| 20 | [Motion (YC W20) is hiring QA and back end engineers (usemotion.com)](https://www.usemotion.com/jobs) | 9/8/2022 05:00 PM |
+| 21 | [QuestDB (YC S20) Is Hiring a Technical Writer (questdb.io)](https://questdb.io/careers/technical-content-writer/) | 9/8/2022 12:00 PM |
+| 22 | [SigNoz (YC W21) Is Hiring Frontend engineers to build open source APM (ycombinator.com)](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer) | 9/8/2022 07:00 AM |
+| 23 | [Laylo (YC S20) Is Hiring a Full Stack Engineer to Grow “Salesforce” for Creators](https://news.ycombinator.com/item?id=32753205) | 9/7/2022 05:01 PM |
+| 24 | [Etleap (YC W13) is hiring a software engineer in London (etleap.com)](https://etleap.com/careers/software-engineer/) | 9/7/2022 01:00 AM |
+| 25 | [GiveCampus (YC S15) hiring senior engineers who care about affordable education (lever.co)](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915) | 9/6/2022 09:08 PM |
+| 26 | [Jiga (YC W21) is hiring a manufacturing success manager (ycombinator.com)](https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us) | 9/6/2022 05:00 PM |
+| 27 | [Meticulous (YC S21) is hiring #3 founding engineer in London](https://news.ycombinator.com/item?id=32723316) | 9/5/2022 12:01 PM |
+| 28 | [BuildZoom (YC W13) is hiring a principal engineer (lever.co)](https://jobs.lever.co/buildzoom) | 9/4/2022 09:08 PM |
+| 29 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 9/4/2022 05:01 PM |
+| 30 | [Ivy (YC W23) is hiring software engineers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 9/4/2022 01:02 AM |
 <!-- JOBS:END -->
 
 
