@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Demodesk GmbH Is Hiring a Full-Stack Product Engineer (demodesk.com)](https://demodesk.com/careers) | 9/21/2022 07:01 AM |
+| 1 | [Demodesk GmbH (YC W19) Is Hiring a Full-Stack Product Engineer (demodesk.com)](https://demodesk.com/careers) | 9/21/2022 07:01 AM |
 | 2 | [Etleap (YC W13) Is Hiring Software Engineer – London (etleap.com)](https://etleap.com/careers/software-engineer/) | 9/21/2022 01:01 AM |
 | 3 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32900942) | 9/19/2022 05:00 PM |
 | 4 | [BuildZoom (YC W13) is hiring (lever.co)](https://jobs.lever.co/buildzoom) | 9/19/2022 12:00 PM |
