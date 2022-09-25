@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring (skio.com)](https://skio.com/careers/) | 9/25/2022 12:01 PM |
+| 1 | [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations (skio.com)](https://skio.com/careers/) | 9/25/2022 12:01 PM |
 | 2 | [Stacker (YC S20) Is Hiring Product Engineers (workable.com)](https://apply.workable.com/stackerhq/j/32E1D43CF5/) | 9/25/2022 07:05 AM |
 | 3 | [Firezone (YC W22) is hiring a founding engineer to build an open-source VPN (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs) | 9/24/2022 09:00 PM |
 | 4 | [SafeBeat Rx (YC S21) Is Hiring (ycombinator.com)](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position) | 9/24/2022 05:00 PM |
