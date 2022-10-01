@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [The Muse (YC W12) Is Hiring a Finance, Ops and M&a Associate (themuse.com)](https://www.themuse.com/jobs/themuse/finance-and-operations-associate) | 10/1/2022 12:00 PM |
+| 1 | [The Muse (YC W12) Is Hiring a Finance, Ops and M&A Associate (themuse.com)](https://www.themuse.com/jobs/themuse/finance-and-operations-associate) | 10/1/2022 12:00 PM |
 | 2 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/1/2022 07:01 AM |
 | 3 | [AirMyne (YC W22) is hiring a chemical engineer in Berkeley, CA (ycombinator.com)](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer) | 9/30/2022 09:00 PM |
 | 4 | [Patterns (YC S21) is hiring devs to help us build the Figma for data (patterns.app)](https://www.patterns.app/) | 9/30/2022 05:00 PM |
