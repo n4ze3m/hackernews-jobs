@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Pachyderm Is Hiring Sales Engineers and Solutions Architects (greenhouse.io)](https://boards.greenhouse.io/pachyderm/jobs/5237764003) | 10/12/2022 09:00 PM |
+| 1 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (greenhouse.io)](https://boards.greenhouse.io/pachyderm/jobs/5237764003) | 10/12/2022 09:00 PM |
 | 2 | [DevCycle (YC W14) – Feature Flags w/ a built-in Edge Database – Is Hiring Devs (devcycle.com)](https://devcycle.com/company/careers) | 10/12/2022 05:00 PM |
 | 3 | [Ribbon Health (YC S17) engineers improve the status quo of healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/) | 10/12/2022 12:01 PM |
 | 4 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 10/11/2022 09:00 PM |
