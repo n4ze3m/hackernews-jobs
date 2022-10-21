@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Replit (YC W18) is hiring engineers to make programming more accessible (replit.com)](https://replit.com/careers) | 10/21/2022 05:00 PM |
-| 2 | [PolicyFly (YC W22) Is Hiring a Senior Front End Engineer (Remote) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core) | 10/21/2022 12:00 PM |
-| 3 | [Hightouch (YC S19) Is Hiring an Engineering Manager (greenhouse.io)](https://boards.greenhouse.io/hightouch/jobs/4580317004) | 10/21/2022 01:00 AM |
-| 4 | [Release (YC W20) Is Hiring – Senior Cloud Infrastructure Engineer (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure) | 10/20/2022 09:00 PM |
-| 5 | [Evidence (YC S21) is hiring engineers to build a web framework for data teams (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer) | 10/20/2022 05:00 PM |
-| 6 | [Senior Solidity Developer at Jasmine Energy (YC S22) (ycombinator.com)](https://www.ycombinator.com/companies/jasmine/jobs/AZ807Dr-senior-solidity-developer-at-jasmine-energy-yc-s22) | 10/20/2022 12:00 PM |
-| 7 | [Demodesk is hiring a product engineer in EU time zones (demodesk.com)](https://demodesk.com/careers) | 10/20/2022 08:31 AM |
-| 8 | [Substack (YC W18) is hiring data analysts (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn) | 10/19/2022 05:15 PM |
-| 9 | [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable (ycombinator.com)](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer) | 10/19/2022 02:30 PM |
-| 10 | [Bottomless (YC W19) is hiring a lead designer (anywhere) (forms.gle)](https://forms.gle/PEbQ7cXAfFc7bpXs9) | 10/18/2022 09:00 PM |
-| 11 | [Firezone (YC W22) is hiring a founding engineer (Elixir, Rust) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer) | 10/18/2022 05:00 PM |
-| 12 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946) | 10/18/2022 12:00 PM |
-| 13 | [BuildZoom (YC W13) is hiring a product manager (lever.co)](https://jobs.lever.co/buildzoom) | 10/17/2022 12:02 PM |
-| 14 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 10/16/2022 09:01 PM |
-| 15 | [OneSignal (YC S11) Is Hiring Engineers (onesignal.com)](https://onesignal.com/careers#section-job) | 10/16/2022 05:01 PM |
-| 16 | [Tesorio (YC S15) raised a Series B and is hiring various roles (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 10/16/2022 12:00 PM |
-| 17 | [Promoted.ai (YC W21) Is Hiring a Staff ML Engineer (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer) | 10/15/2022 09:00 PM |
-| 18 | [Patterns (YC S21) enables devs to build data apps quickly and is hiring in SF (patterns.app)](https://patterns.app/) | 10/15/2022 05:00 PM |
-| 19 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/15/2022 07:02 AM |
-| 20 | [Ciro (YC S22) is hiring founding engineers to build an SMB search engine (ycombinator.com)](https://www.ycombinator.com/companies/ciro/jobs) | 10/14/2022 05:01 PM |
-| 21 | [Jitx (YC S18) is hiring a front end engineer (lever.co)](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e) | 10/13/2022 05:01 PM |
-| 22 | [Finley (YC W21) is fintech software hiring across all teams (US Remote) (finleycms.com)](https://www.finleycms.com/careers/) | 10/13/2022 12:00 PM |
-| 23 | [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33188094) | 10/13/2022 07:04 AM |
-| 24 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (greenhouse.io)](https://boards.greenhouse.io/pachyderm/jobs/5237764003) | 10/12/2022 09:00 PM |
-| 25 | [DevCycle (YC W14) – Feature Flags w/ a built-in Edge Database – Is Hiring Devs (devcycle.com)](https://devcycle.com/company/careers) | 10/12/2022 05:00 PM |
-| 26 | [Ribbon Health (YC S17) engineers improve the status quo of healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/) | 10/12/2022 12:01 PM |
-| 27 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 10/11/2022 09:00 PM |
-| 28 | [MutableAI (YC W22) Is Hiring a Founding Engineer to Build an AI First Dev Platform (ycombinator.com)](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer) | 10/11/2022 06:18 PM |
-| 29 | [Reflect (YC S20) is hiring a software engineer (ycombinator.com)](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer) | 10/11/2022 12:00 PM |
-| 30 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 10/11/2022 07:00 AM |
+| 1 | [Fractional (YC W21) Is Hiring an iOS Lead (ycombinator.com)](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead) | 10/21/2022 09:00 PM |
+| 2 | [Replit (YC W18) is hiring engineers to make programming more accessible (replit.com)](https://replit.com/careers) | 10/21/2022 05:00 PM |
+| 3 | [PolicyFly (YC W22) Is Hiring a Senior Front End Engineer (Remote) (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core) | 10/21/2022 12:00 PM |
+| 4 | [Hightouch (YC S19) Is Hiring an Engineering Manager (greenhouse.io)](https://boards.greenhouse.io/hightouch/jobs/4580317004) | 10/21/2022 01:00 AM |
+| 5 | [Release (YC W20) Is Hiring – Senior Cloud Infrastructure Engineer (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure) | 10/20/2022 09:00 PM |
+| 6 | [Evidence (YC S21) is hiring engineers to build a web framework for data teams (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer) | 10/20/2022 05:00 PM |
+| 7 | [Senior Solidity Developer at Jasmine Energy (YC S22) (ycombinator.com)](https://www.ycombinator.com/companies/jasmine/jobs/AZ807Dr-senior-solidity-developer-at-jasmine-energy-yc-s22) | 10/20/2022 12:00 PM |
+| 8 | [Demodesk is hiring a product engineer in EU time zones (demodesk.com)](https://demodesk.com/careers) | 10/20/2022 08:31 AM |
+| 9 | [Substack (YC W18) is hiring data analysts (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn) | 10/19/2022 05:15 PM |
+| 10 | [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable (ycombinator.com)](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer) | 10/19/2022 02:30 PM |
+| 11 | [Bottomless (YC W19) is hiring a lead designer (anywhere) (forms.gle)](https://forms.gle/PEbQ7cXAfFc7bpXs9) | 10/18/2022 09:00 PM |
+| 12 | [Firezone (YC W22) is hiring a founding engineer (Elixir, Rust) (ycombinator.com)](https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer) | 10/18/2022 05:00 PM |
+| 13 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946) | 10/18/2022 12:00 PM |
+| 14 | [BuildZoom (YC W13) is hiring a product manager (lever.co)](https://jobs.lever.co/buildzoom) | 10/17/2022 12:02 PM |
+| 15 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 10/16/2022 09:01 PM |
+| 16 | [OneSignal (YC S11) Is Hiring Engineers (onesignal.com)](https://onesignal.com/careers#section-job) | 10/16/2022 05:01 PM |
+| 17 | [Tesorio (YC S15) raised a Series B and is hiring various roles (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 10/16/2022 12:00 PM |
+| 18 | [Promoted.ai (YC W21) Is Hiring a Staff ML Engineer (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer) | 10/15/2022 09:00 PM |
+| 19 | [Patterns (YC S21) enables devs to build data apps quickly and is hiring in SF (patterns.app)](https://patterns.app/) | 10/15/2022 05:00 PM |
+| 20 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/15/2022 07:02 AM |
+| 21 | [Ciro (YC S22) is hiring founding engineers to build an SMB search engine (ycombinator.com)](https://www.ycombinator.com/companies/ciro/jobs) | 10/14/2022 05:01 PM |
+| 22 | [Jitx (YC S18) is hiring a front end engineer (lever.co)](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e) | 10/13/2022 05:01 PM |
+| 23 | [Finley (YC W21) is fintech software hiring across all teams (US Remote) (finleycms.com)](https://www.finleycms.com/careers/) | 10/13/2022 12:00 PM |
+| 24 | [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33188094) | 10/13/2022 07:04 AM |
+| 25 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (greenhouse.io)](https://boards.greenhouse.io/pachyderm/jobs/5237764003) | 10/12/2022 09:00 PM |
+| 26 | [DevCycle (YC W14) – Feature Flags w/ a built-in Edge Database – Is Hiring Devs (devcycle.com)](https://devcycle.com/company/careers) | 10/12/2022 05:00 PM |
+| 27 | [Ribbon Health (YC S17) engineers improve the status quo of healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/) | 10/12/2022 12:01 PM |
+| 28 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 10/11/2022 09:00 PM |
+| 29 | [MutableAI (YC W22) Is Hiring a Founding Engineer to Build an AI First Dev Platform (ycombinator.com)](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer) | 10/11/2022 06:18 PM |
+| 30 | [Reflect (YC S20) is hiring a software engineer (ycombinator.com)](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer) | 10/11/2022 12:00 PM |
 <!-- JOBS:END -->
 
 
