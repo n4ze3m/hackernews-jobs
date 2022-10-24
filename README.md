@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Motion (YC W20) Is Hiring Full-Stack Engineers and Data Scientists (ashbyhq.com)](https://jobs.ashbyhq.com/motion?utm_source=hn) | 10/23/2022 05:00 PM |
+| 1 | [Motion (YC W20) is hiring full-stack engineers and data scientists (ashbyhq.com)](https://jobs.ashbyhq.com/motion?utm_source=hn) | 10/23/2022 05:00 PM |
 | 2 | [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations (skio.com)](https://skio.com/careers) | 10/23/2022 12:02 PM |
 | 3 | [Fractional (YC W21) Is Hiring an iOS Lead (ycombinator.com)](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead) | 10/21/2022 09:00 PM |
 | 4 | [Replit (YC W18) is hiring engineers to make programming more accessible (replit.com)](https://replit.com/careers) | 10/21/2022 05:00 PM |
