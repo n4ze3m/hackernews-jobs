@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Pachyderm Is Hiring Sales Engineers and Solutions Architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 10/27/2022 05:00 PM |
+| 1 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 10/27/2022 05:00 PM |
 | 2 | [QuestDB (YC S20) Is Hiring a Core Database Engineer (Low Latency Java and C++) (questdb.io)](https://questdb.io/careers/core-database-engineer/) | 10/27/2022 12:53 PM |
 | 3 | [Generally Intelligent (YC S17) Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199) | 10/27/2022 07:05 AM |
 | 4 | [Ivy (YC W23) are hiring engineers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 10/26/2022 05:45 PM |
