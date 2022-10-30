@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink) (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink) | 10/29/2022 09:00 PM |
+| 1 | [Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink) | 10/29/2022 09:00 PM |
 | 2 | [Patterns (YC S21) is hiring to build a developer platform for data apps (patterns.app)](https://www.patterns.app/) | 10/29/2022 05:00 PM |
 | 3 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/29/2022 12:00 PM |
 | 4 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 10/28/2022 07:01 AM |
