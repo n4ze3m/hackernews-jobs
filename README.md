@@ -5,7 +5,7 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Manara (YC W21) Is Hiring (Software Engineer) (breezy.hr)](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published) | 11/7/2022 05:00 PM |
+| 1 | [Manara (YC W21) is hiring a software engineer (breezy.hr)](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published) | 11/7/2022 05:00 PM |
 | 2 | [Finley (YC W21) is a B2B fintech hiring across all teams (US remote) (finleycms.com)](https://www.finleycms.com/careers/) | 11/7/2022 12:00 PM |
 | 3 | [Motion (YC W20) Is Hiring Full Stack Engineers (ashbyhq.com)](https://jobs.ashbyhq.com/motion?utm_source=hn) | 11/6/2022 05:01 PM |
 | 4 | [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations (skio.com)](https://skio.com/careers/) | 11/6/2022 12:03 PM |
