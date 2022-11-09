@@ -5,36 +5,36 @@ List of jobs from [Hacker News](https://news.ycombinator.com/). This github repo
 <!-- JOBS:START -->
 | id 	| Title 	| Posted On 	|
 |---	|---	|---	|
-| 1 | [Compound (YC S19) is hiring to build financial products for tech people (withcompound.com)](https://withcompound.com/company/about) | 11/8/2022 09:00 PM |
-| 2 | [ReadMe (YC W15) is hiring a product manager who loves APIs (readme.com)](https://readme.com/careers#product-lead) | 11/8/2022 05:00 PM |
-| 3 | [Ribbon Health (YC S17) is hiring engineers to change healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/) | 11/7/2022 09:00 PM |
-| 4 | [Manara (YC W21) is hiring a software engineer (breezy.hr)](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published) | 11/7/2022 05:00 PM |
-| 5 | [Finley (YC W21) is a B2B fintech hiring across all teams (US remote) (finleycms.com)](https://www.finleycms.com/careers/) | 11/7/2022 12:00 PM |
-| 6 | [Motion (YC W20) Is Hiring Full Stack Engineers (ashbyhq.com)](https://jobs.ashbyhq.com/motion?utm_source=hn) | 11/6/2022 05:01 PM |
-| 7 | [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations (skio.com)](https://skio.com/careers/) | 11/6/2022 12:03 PM |
-| 8 | [Lilia (egg freezing, YC W20) Is Hiring a Content/Growth Marketer (observant-hoodie-597.notion.site)](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c) | 11/4/2022 06:45 PM |
-| 9 | [PolicyFly (YC W22) Is Hiring an Engineering Manager to Lead Our Solutions Team (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions) | 11/4/2022 12:01 PM |
-| 10 | [Supabase (YC S20) Is Hiring a Lead API and Billing Engineer (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4652333004) | 11/4/2022 07:08 AM |
-| 11 | [Release (YC W20) Is Hiring – Senior Software Engineer – Cloud Infrastructure (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure) | 11/3/2022 09:01 PM |
-| 12 | [Evidence (YC S21) Is hiring engineers to build a web framework for data analysts (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/Ppjfpfm-frontend-engineer) | 11/3/2022 05:01 PM |
-| 13 | [Substack (YC W18) is hiring data analysts (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn) | 11/2/2022 05:16 PM |
-| 14 | [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris (lever.co)](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News) | 11/2/2022 07:00 AM |
-| 15 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 11/1/2022 05:01 PM |
-| 16 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33420039) | 11/1/2022 12:00 PM |
-| 17 | [Flexport (YC W14) Is Hiring Software Engineers (flexport.com)](https://flexport.com/careers) | 10/31/2022 09:00 PM |
-| 18 | [BuildZoom (YC W13) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 10/31/2022 12:02 PM |
-| 19 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 10/30/2022 09:01 PM |
-| 20 | [OneSignal (YC S11) Is Hiring a Data Analytics Lead (onesignal.com)](https://onesignal.com/careers/bf5f67d4-f4be-44a9-9677-2bbb5686009b) | 10/30/2022 05:01 PM |
-| 21 | [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 10/30/2022 12:00 PM |
-| 22 | [Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink) | 10/29/2022 09:00 PM |
-| 23 | [Patterns (YC S21) is hiring to build a developer platform for data apps (patterns.app)](https://www.patterns.app/) | 10/29/2022 05:00 PM |
-| 24 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/29/2022 12:00 PM |
-| 25 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 10/28/2022 07:01 AM |
-| 26 | [Jitx (YC S18) is hiring an application engineer to code PCBs (lever.co)](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b) | 10/27/2022 09:00 PM |
-| 27 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 10/27/2022 05:00 PM |
-| 28 | [QuestDB (YC S20) Is Hiring a Core Database Engineer (Low Latency Java and C++) (questdb.io)](https://questdb.io/careers/core-database-engineer/) | 10/27/2022 12:53 PM |
-| 29 | [Generally Intelligent (YC S17) Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199) | 10/27/2022 07:05 AM |
-| 30 | [Ivy (YC W23) are hiring engineers to help unify ML (ycombinator.com)](https://www.ycombinator.com/companies/ivy/jobs) | 10/26/2022 05:45 PM |
+| 1 | [Ciro (YC S22) is hiring founding engineers to build an SMB search engine (ycombinator.com)](https://www.ycombinator.com/companies/ciro/jobs) | 11/9/2022 05:00 PM |
+| 2 | [Compound (YC S19) is hiring to build financial products for tech people (withcompound.com)](https://withcompound.com/company/about) | 11/8/2022 09:00 PM |
+| 3 | [ReadMe (YC W15) is hiring a product manager who loves APIs (readme.com)](https://readme.com/careers#product-lead) | 11/8/2022 05:00 PM |
+| 4 | [Ribbon Health (YC S17) is hiring engineers to change healthcare (ribbonhealth.com)](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/) | 11/7/2022 09:00 PM |
+| 5 | [Manara (YC W21) is hiring a software engineer (breezy.hr)](https://manara.breezy.hr/p/4722c0eb2911-tech-team-senior-backend-engineer?state=published) | 11/7/2022 05:00 PM |
+| 6 | [Finley (YC W21) is a B2B fintech hiring across all teams (US remote) (finleycms.com)](https://www.finleycms.com/careers/) | 11/7/2022 12:00 PM |
+| 7 | [Motion (YC W20) Is Hiring Full Stack Engineers (ashbyhq.com)](https://jobs.ashbyhq.com/motion?utm_source=hn) | 11/6/2022 05:01 PM |
+| 8 | [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations (skio.com)](https://skio.com/careers/) | 11/6/2022 12:03 PM |
+| 9 | [Lilia (egg freezing, YC W20) Is Hiring a Content/Growth Marketer (observant-hoodie-597.notion.site)](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c) | 11/4/2022 06:45 PM |
+| 10 | [PolicyFly (YC W22) Is Hiring an Engineering Manager to Lead Our Solutions Team (ycombinator.com)](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions) | 11/4/2022 12:01 PM |
+| 11 | [Supabase (YC S20) Is Hiring a Lead API and Billing Engineer (greenhouse.io)](https://boards.greenhouse.io/supabase/jobs/4652333004) | 11/4/2022 07:08 AM |
+| 12 | [Release (YC W20) Is Hiring – Senior Software Engineer – Cloud Infrastructure (ycombinator.com)](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure) | 11/3/2022 09:01 PM |
+| 13 | [Evidence (YC S21) Is hiring engineers to build a web framework for data analysts (ycombinator.com)](https://www.ycombinator.com/companies/evidence/jobs/Ppjfpfm-frontend-engineer) | 11/3/2022 05:01 PM |
+| 14 | [Substack (YC W18) is hiring data analysts (greenhouse.io)](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn) | 11/2/2022 05:16 PM |
+| 15 | [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris (lever.co)](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News) | 11/2/2022 07:00 AM |
+| 16 | [EasyPost (YC S13) Is Hiring (easypost.com)](https://www.easypost.com/careers) | 11/1/2022 05:01 PM |
+| 17 | [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33420039) | 11/1/2022 12:00 PM |
+| 18 | [Flexport (YC W14) Is Hiring Software Engineers (flexport.com)](https://flexport.com/careers) | 10/31/2022 09:00 PM |
+| 19 | [BuildZoom (YC W13) is hiring a growth associate (lever.co)](https://jobs.lever.co/buildzoom) | 10/31/2022 12:02 PM |
+| 20 | [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms (ycombinator.com)](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer) | 10/30/2022 09:01 PM |
+| 21 | [OneSignal (YC S11) Is Hiring a Data Analytics Lead (onesignal.com)](https://onesignal.com/careers/bf5f67d4-f4be-44a9-9677-2bbb5686009b) | 10/30/2022 05:01 PM |
+| 22 | [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer (tesorio.com)](https://www.tesorio.com/careers#job-openings) | 10/30/2022 12:00 PM |
+| 23 | [Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience (ycombinator.com)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink) | 10/29/2022 09:00 PM |
+| 24 | [Patterns (YC S21) is hiring to build a developer platform for data apps (patterns.app)](https://www.patterns.app/) | 10/29/2022 05:00 PM |
+| 25 | [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote) (svix.com)](https://www.svix.com/careers/) | 10/29/2022 12:00 PM |
+| 26 | [Deepnote (YC S19) is hiring to build a better data science notebook (Europe) (deepnote.com)](https://deepnote.com/join-us) | 10/28/2022 07:01 AM |
+| 27 | [Jitx (YC S18) is hiring an application engineer to code PCBs (lever.co)](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b) | 10/27/2022 09:00 PM |
+| 28 | [Pachyderm (YC W15) is hiring sales engineers and solutions architects (pachyderm.com)](https://www.pachyderm.com/careers/#positions) | 10/27/2022 05:00 PM |
+| 29 | [QuestDB (YC S20) Is Hiring a Core Database Engineer (Low Latency Java and C++) (questdb.io)](https://questdb.io/careers/core-database-engineer/) | 10/27/2022 12:53 PM |
+| 30 | [Generally Intelligent (YC S17) Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199) | 10/27/2022 07:05 AM |
 <!-- JOBS:END -->
 
 
